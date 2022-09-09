@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=adassroage;AccountKey=vBt9z+I5EoKYXfkLY/fLUoOTOplM1EA8+ynNtNlPTEPZp3GVlP3sef42c4C62SOZ1cxJq1hFBhEZ+AStgfrxqQ==;EndpointSuffix=core.windows.net",
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "adasbus_SERVICEBUS": "Endpoint=sb://adasbus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Xro04xrv2mDxRMLOUMHB+tBwpVGUFpEge8WhPXbYNCw="
+    }
+}

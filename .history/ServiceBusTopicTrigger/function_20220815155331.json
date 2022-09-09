@@ -1,0 +1,12 @@
+{
+    "scriptFile": "__init__.py",
+    "entryPoint": "main",
+    "bindings": [{
+        "name": "message",
+        "type": "serviceBusTrigger",
+        "direction": "in",
+        "topicName": "step2-tobe-convert",
+        "subscriptionName": "func-3-video-to-img",
+        "connection": "Endpoint=sb://adas-demo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=dqSN6+Qaz1GsExDqsLYNyT97eiByvam8ZFGH0eNjc/I="
+    }]
+}
