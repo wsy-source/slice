@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=func3docker;AccountKey=/w7X6czrPBKrwjpOfIScT4f6qLoghdnploS18nX1dbg+ppLQlrY2CtfnI8++WYjAgVB9GaPQfytt+AStxd73Vg==;EndpointSuffix=core.windows.net",
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "adasbus_SERVICEBUS": "Endpoint=sb://adas-demo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=dqSN6+Qaz1GsExDqsLYNyT97eiByvam8ZFGH0eNjc/I="
+    }
+}
